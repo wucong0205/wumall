@@ -1,8 +1,8 @@
 package com.dilen.gmall.member.controller;
 
-import com.dilen.gmall.member.bean.UmsMember;
-import com.dilen.gmall.member.bean.UmsMemberReceiveAddress;
-import com.dilen.gmall.member.service.MemberService;
+import com.dilen.gmall.bean.UmsMember;
+import com.dilen.gmall.bean.UmsMemberReceiveAddress;
+import com.dilen.gmall.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

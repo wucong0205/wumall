@@ -1,10 +1,10 @@
 package com.dilen.gmall.member.service.impl;
 
-import com.dilen.gmall.member.bean.UmsMember;
-import com.dilen.gmall.member.bean.UmsMemberReceiveAddress;
+import com.dilen.gmall.bean.UmsMember;
+import com.dilen.gmall.bean.UmsMemberReceiveAddress;
 import com.dilen.gmall.member.mapper.MemberMapper;
 import com.dilen.gmall.member.mapper.UmsMemberReceiveAddressMapper;
-import com.dilen.gmall.member.service.MemberService;
+import com.dilen.gmall.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
