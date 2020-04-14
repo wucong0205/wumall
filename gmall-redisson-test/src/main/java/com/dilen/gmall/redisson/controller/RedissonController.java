@@ -13,6 +13,7 @@ import redis.clients.jedis.Jedis;
 /**
  * @author wuc
  * @date 2019-12-18
+ * @desc 测试redission
  */
 @Controller
 public class RedissonController {
